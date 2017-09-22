@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\bin\Debug\chekers2.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\bin\Debug\chekers2.exe
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\bin\Debug\chekers2.pdb
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\obj\Debug\chekers2.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\obj\Debug\chekers2.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\obj\Debug\chekers2.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\obj\Debug\chekers2.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\obj\Debug\chekers2.exe
+c:\users\hp\documents\visual studio 2012\Projects\chekers2\chekers2\obj\Debug\chekers2.pdb
